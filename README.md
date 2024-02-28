@@ -1,16 +1,29 @@
-### Hi there 👋
+# Welcome to Abhishek Singh's GitHub Repository!
 
-<!--
-**absingh0103/absingh0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello there! 👋 I'm Abhishek Singh, a passionate Full Stack Developer with a keen interest in Backend Development and DevOps. I love solving problems, tinkering with code, and building robust applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### 1. Amazon Clone
+
+The Amazon Clone project aims to replicate the core functionalities of the popular e-commerce platform, Amazon. It includes features like user authentication, product listings, cart management, and more. This project showcases my skills in building scalable web applications and integrating various APIs.
+
+### 2. ShopNow - Your Ultimate Shopping Destination
+
+ShopNow is a comprehensive shopping website that encompasses all the essential features needed for an enjoyable shopping experience. From browsing products to making secure payments, ShopNow has it all. This project reflects my dedication to creating user-friendly interfaces and implementing efficient backend systems.
+
+## Technologies I Love
+
+- **Backend Development**: Node.js, Express.js, Sails.js, Meteor.js, Nest.js
+- **Frontend Development**: React.js, Next.js, HTML, CSS, JavaScript, typeScript
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **DevOps**: Docker, Kubernetes, Jenkins, GitLab CI/CD
+
+## Get in Touch
+
+I'm always open to collaboration and new opportunities. Feel free to reach out to me via [email](mailto:abhiishekkumarsingh@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek0103).
+
+Let's build something amazing together! 🚀
+
