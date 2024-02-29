@@ -34,20 +34,20 @@
 
 - 🌱 I’m currently learning **DevOps** and diving deep into backend technologies to enhance my skills.
 
-- 👨‍💻 You can find all of my projects at [Abhishek's Portfolio](http://supun.traditionalme.life), where I experiment with different technologies and frameworks.
+- 👨‍💻 You can find all of my projects at <em>[Abhishek's Portfolio](http://supun.traditionalme.life)</em>, where I experiment with different technologies and frameworks.
 
 - 💬 Feel free to ask me about **Node.js, Express, MongoDB, MySQL, React.js, and Next.js**; I love discussing these topics and sharing insights.
 
-- 📫 How to reach me **[@abhisheksingh](https://www.linkedin.com/in/abhishek0103)**
+- 📫 How to reach me<em> **[@abhisheksingh](https://www.linkedin.com/in/abhishek0103)**</em>
 
-- 📄 For more details about my professional background and experiences, you can check out. [my experiences](http://#/#resume)
+- 📄 For more details about my professional background and experiences, you can check out.<em>[my experiences](http://#/#resume)</em>
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek0103" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhishek" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9565088/#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
-<a href="https://instagram.com/abhiishek.io" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9565088/#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Abhishek" height="30" width="40" /></a>
+<a href="https://instagram.com/abhiishek.io" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhiishek.io" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Abhishek" height="30" width="40" /></a>
  <a href="https://twitter.com/Abhishe57725489" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Abhishek" height="30" width="40" /></a>
 </p>
@@ -158,4 +158,4 @@ ShopNow is a comprehensive shopping website that encompasses all the essential f
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>[hi](https://www.linkedin.com/in/abhishek0103), I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with &#10084; by <a href="http://#">Abhishek Singh</a></p>
+<p align="right" > Created with &#10084; by <a href="http://#"><em>Abhishek Singh</em></a></p>
