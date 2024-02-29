@@ -55,13 +55,13 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">My Projects:</h3>
-- <a href="https://amazon.cyclic.cloud/" target="__blank">Amazon Clone</a>
+- <a href="https://amazon.cyclic.cloud/" target="_blank">Amazon Clone</a>
 </br>
 </br>
 The Amazon Clone project aims to replicate the core functionalities of the popular e-commerce platform, Amazon. It includes features like user authentication, product listings, cart management, and more. This project showcases my skills in building scalable web applications and integrating various APIs.
 </br>
 </br>
-- <a href="https://shopnow-nkp0.onrender.com/" target="__blank"> ShopNow - Your Ultimate Shopping Destination</a>
+- <a href="https://shopnow-nkp0.onrender.com/" target="_blank"> ShopNow - Your Ultimate Shopping Destination</a>
 </br>
 </br>
 ShopNow is a comprehensive shopping website that encompasses all the essential features needed for an enjoyable shopping experience. From browsing products to making secure payments, ShopNow has it all. This project reflects my dedication to creating user-friendly interfaces and implementing efficient backend systems.
