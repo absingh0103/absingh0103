@@ -45,23 +45,23 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhishek0103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhishek" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9565088/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
-<a href="https://instagram.com/abhiishek.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Abhishek" height="30" width="40" /></a>
- <a href="https://twitter.com/Abhishe57725489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Abhishek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishek0103" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhishek" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9565088/#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
+<a href="https://instagram.com/abhiishek.io" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Abhishek" height="30" width="40" /></a>
+ <a href="https://twitter.com/Abhishe57725489" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Abhishek" height="30" width="40" /></a>
 </p>
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">My Projects:</h3>
-- <a href="https://amazon.cyclic.cloud/" target="blank">Amazon Clone</a>
+- <a href="https://amazon.cyclic.cloud/" target="__blank">Amazon Clone</a>
 </br>
 </br>
 The Amazon Clone project aims to replicate the core functionalities of the popular e-commerce platform, Amazon. It includes features like user authentication, product listings, cart management, and more. This project showcases my skills in building scalable web applications and integrating various APIs.
 </br>
 </br>
-- <a href="https://shopnow-nkp0.onrender.com/" target="blank"> ShopNow - Your Ultimate Shopping Destination</a>
+- <a href="https://shopnow-nkp0.onrender.com/" target="__blank"> ShopNow - Your Ultimate Shopping Destination</a>
 </br>
 </br>
 ShopNow is a comprehensive shopping website that encompasses all the essential features needed for an enjoyable shopping experience. From browsing products to making secure payments, ShopNow has it all. This project reflects my dedication to creating user-friendly interfaces and implementing efficient backend systems.
