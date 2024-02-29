@@ -5,8 +5,6 @@
 <p align="center">I am endlessly intrigued by the way computer technology 🌐 has revolutionized our lives in ways previously unimaginable. Witnessing the continual advancement of computer science sparked my interest in exploring software engineering early on, and my enthusiasm has only deepened over time. Additionally, I thoroughly enjoy delving into new tech stacks 💻 and using them to craft innovative projects.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=absingh0103&label=Profile%20views&color=orange&style=flat" alt="abhishek singh" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
 <div align="center">
@@ -36,7 +34,7 @@
 
 - 🌱 I’m currently learning **DevOps** and diving deep into backend technologies to enhance my skills.
 
-- 👨‍💻 You can find all of my projects at [supun's workspace](http://supun.traditionalme.life), where I experiment with different technologies and frameworks.
+- 👨‍💻 You can find all of my projects at [Abhishek's Portfolio](http://supun.traditionalme.life), where I experiment with different technologies and frameworks.
 
 - 💬 Feel free to ask me about **Node.js, Express, MongoDB, MySQL, React.js, and Next.js**; I love discussing these topics and sharing insights.
 
@@ -47,13 +45,26 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhishek0103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishek0103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhishek" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9565088/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
 <a href="https://instagram.com/abhiishek.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
- <a href="https://twitter.com/Abhishe57725489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Abhishek" height="30" width="40" /></a>
+ <a href="https://twitter.com/Abhishe57725489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Abhishek" height="30" width="40" /></a>
 </p>
 <br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left">My Projects:</h3>
+- <a href="https://amazon.cyclic.cloud/" target="blank">Amazon Clone</a>
+</br>
+</br>
+The Amazon Clone project aims to replicate the core functionalities of the popular e-commerce platform, Amazon. It includes features like user authentication, product listings, cart management, and more. This project showcases my skills in building scalable web applications and integrating various APIs.
+</br>
+</br>
+- <a href="https://shopnow-nkp0.onrender.com/" target="blank"> ShopNow - Your Ultimate Shopping Destination</a>
+</br>
+</br>
+ShopNow is a comprehensive shopping website that encompasses all the essential features needed for an enjoyable shopping experience. From browsing products to making secure payments, ShopNow has it all. This project reflects my dedication to creating user-friendly interfaces and implementing efficient backend systems.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
