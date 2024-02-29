@@ -61,11 +61,14 @@
 The Amazon Clone project aims to replicate the core functionalities of the popular e-commerce platform, Amazon. It includes features like user authentication, product listings, cart management, and more. This project showcases my skills in building scalable web applications and integrating various APIs.
 </br>
 </br>
-- <a href="https://shopnow-nkp0.onrender.com/" target="_blank"> ShopNow - Your Ultimate Shopping Destination</a>
+- <a href="https://shopnow-nkp0.onrender.com/" target="_blank"> ShopNow : Your Ultimate Shopping Destination</a>
 </br>
 </br>
 ShopNow is a comprehensive shopping website that encompasses all the essential features needed for an enjoyable shopping experience. From browsing products to making secure payments, ShopNow has it all. This project reflects my dedication to creating user-friendly interfaces and implementing efficient backend systems.
+</br>
+<h5 align="center">***Please be patient as our website is hosted on a free server, which may cause occasional delays in loading.***</h5>
 
+</br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
@@ -73,14 +76,14 @@ ShopNow is a comprehensive shopping website that encompasses all the essential f
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,docker,postman,prisma,graphql,redis,nestjs" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,redux,tailwind,sass,materialui" />
   </a>
 </p>
 
@@ -101,7 +104,7 @@ ShopNow is a comprehensive shopping website that encompasses all the essential f
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,npm,idea,vscode,postman,linux,nginx" />
   </a>
 </p>
 
