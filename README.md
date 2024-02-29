@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A passionate Programmer from India</h3>
-<p align="center">I am endlessly intrigued by the way computer technology 🌐 has revolutionized our lives in ways previously unimaginable. Witnessing the continual advancement of computer science sparked my interest in exploring software engineering early on, and my enthusiasm has only deepened over time. Additionally, I thoroughly enjoy delving into new tech stacks 💻 and using them to craft innovative projects 🛠️.</p>
+<p align="center">I am endlessly intrigued by the way computer technology 🌐 has revolutionized our lives in ways previously unimaginable. Witnessing the continual advancement of computer science sparked my interest in exploring software engineering early on, and my enthusiasm has only deepened over time. Additionally, I thoroughly enjoy delving into new tech stacks 💻 and using them to craft innovative projects.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=absingh0103&label=Profile%20views&color=orange&style=flat" alt="abhishek singh" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
@@ -13,7 +13,7 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /></div>
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
@@ -32,17 +32,17 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🔭 I’m currently working on **Personal** projects, exploring various aspects of backend development.
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **DevOps** and diving deep into backend technologies to enhance my skills.
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 You can find all of my projects at [supun's workspace](http://supun.traditionalme.life), where I experiment with different technologies and frameworks.
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Feel free to ask me about **Node.js, Express, MongoDB, MySQL, React.js, and Next.js**; I love discussing these topics and sharing insights.
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- 📫 How to reach me **[@abhisheksingh](https://www.linkedin.com/in/abhishek0103)**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📄 For more details about my professional background and experiences, you can check out.[my experiences](http://#/#resume)
 
 - ⚡ Fun fact **I think I'm funny**
 
