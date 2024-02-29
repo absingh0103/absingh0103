@@ -1,6 +1,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
+<h1 align="center">Hi 👋, I'm <em>Abhishek Singh</em></h1>
 <h3 align="center">A passionate Programmer from India</h3>
 <p align="center">I am endlessly intrigued by the way computer technology 🌐 has revolutionized our lives in ways previously unimaginable. Witnessing the continual advancement of computer science sparked my interest in exploring software engineering early on, and my enthusiasm has only deepened over time. Additionally, I thoroughly enjoy delving into new tech stacks 💻 and using them to craft innovative projects.</p>
 <p align="center"> 
@@ -55,13 +55,13 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">My Projects:</h3>
-- <a href="https://amazon.cyclic.cloud/" target="_blank">Amazon Clone</a>
+- <em><a href="https://amazon.cyclic.cloud/" target="_blank">Amazon Clone</a></em>
 </br>
 </br>
 The Amazon Clone project aims to replicate the core functionalities of the popular e-commerce platform, Amazon. It includes features like user authentication, product listings, cart management, and more. This project showcases my skills in building scalable web applications and integrating various APIs.
 </br>
 </br>
-- <a href="https://shopnow-nkp0.onrender.com/" target="_blank"> ShopNow : Your Ultimate Shopping Destination</a>
+- <em><a href="https://shopnow-nkp0.onrender.com/" target="_blank"> ShopNow : Your Ultimate Shopping Destination</a></em>
 </br>
 </br>
 ShopNow is a comprehensive shopping website that encompasses all the essential features needed for an enjoyable shopping experience. From browsing products to making secure payments, ShopNow has it all. This project reflects my dedication to creating user-friendly interfaces and implementing efficient backend systems.
@@ -73,35 +73,35 @@ ShopNow is a comprehensive shopping website that encompasses all the essential f
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
+- <em>Backend</em>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,ts,docker,postman,prisma,graphql,redis,nestjs" />
   </a>
 </p>
 
-- Frontend
+- <em>Frontend</em>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,redux,tailwind,sass,materialui" />
   </a>
 </p>
 
-- Database
+- <em>Database</em>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
 
-- Cloud Servers
+- <em>Cloud Servers</em>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
   </a>
 </p>
 
-- Tools
+- <em>Tools</em>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,npm,idea,vscode,postman,linux,nginx" />
@@ -118,11 +118,11 @@ ShopNow is a comprehensive shopping website that encompasses all the essential f
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+<img src="https://github-profile-trophy.vercel.app/?username=absingh0103&theme=matrix&no-bg=true&no-frame=true&row=1&column=3&title=MultiLanguage,Commits,PullRequest,Reviews">
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+<img src="https://github-profile-trophy.vercel.app/?username=absingh0103&theme=matrix&no-bg=true&no-frame=true&row=1&column=3&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br>
 
@@ -131,9 +131,9 @@ ShopNow is a comprehensive shopping website that encompasses all the essential f
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=absingh0103&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=absingh0103&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
 
@@ -143,19 +143,19 @@ ShopNow is a comprehensive shopping website that encompasses all the essential f
 
 <h3 align="left">Activity:</h3>
 
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Abhishek's Graph](https://github-readme-activity-graph.vercel.app/graph?username=absingh0103&custom_title=Abhishek's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
-
+<!--
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Achievements:</h3>
 
-[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
-<br><br><br>
+[![An image of @absingh0103's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/absingh0103)](https://holopin.io/@absingh0103)
+<br><br><br>-->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>[hi](https://www.linkedin.com/in/abhishek0103), I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
+<p align="right" > Created with &#10084; by <a href="http://#">Abhishek Singh</a></p>
