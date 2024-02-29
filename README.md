@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Programmer from India</h3>
 <p align="center">I am endlessly intrigued by the way computer technology 🌐 has revolutionized our lives in ways previously unimaginable. Witnessing the continual advancement of computer science sparked my interest in exploring software engineering early on, and my enthusiasm has only deepened over time. Additionally, I thoroughly enjoy delving into new tech stacks 💻 and using them to craft innovative projects 🛠️.</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=absingh0103&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek singh" /> 
+ <img src="https://komarev.com/ghpvc/?username=absingh0103&label=Profile%20views&color=orange&style=flat" alt="abhishek singh" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
