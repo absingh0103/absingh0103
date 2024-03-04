@@ -40,7 +40,7 @@
 
 - 📫 How to reach me<em> **[@abhisheksingh](https://www.linkedin.com/in/abhishek0103)**</em>
 
-- 📄 For more details about my professional background and experiences, you can check out.<em>[my experiences](http://#/#resume)</em>
+- 📄 For more details about my professional background and experiences, you can check out.<em>[my experiences](https://absingh0103.github.io/abportfolio/)</em>
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -131,4 +131,4 @@ ShopNow is a comprehensive shopping website that encompasses all the essential f
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>[hi](https://www.linkedin.com/in/abhishek0103), I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > by <a href="http://#"><em>Abhishek Singh</em></a></p>
+<p align="right" > by <a href="https://absingh0103.github.io/abportfolio/"><em>Abhishek Singh</em></a></p>
