@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **DevOps** and diving deep into backend technologies to enhance my skills.
 
-- 👨‍💻 You can find all of my projects at <em>[Abhishek's Portfolio](https://absingh0103.github.io/abportfolio/){:target="_blank" rel="noopener"}</em>, where I experiment with different technologies and frameworks.
+- 👨‍💻 You can find all of my projects at <em>[Abhishek's Portfolio](https://absingh0103.github.io/abportfolio/)</em>, where I experiment with different technologies and frameworks.
 
 - 💬 Feel free to ask me about **Node.js, Express, MongoDB, MySQL, React.js, and Next.js**; I love discussing these topics and sharing insights.
 
