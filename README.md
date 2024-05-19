@@ -55,7 +55,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">My Projects:</h3>
-- <em><a href="https://amazon.cyclic.cloud/" target="_blank">Amazon Clone</a></em>
+- <em><a href="https://amazon-production-1a1e.up.railway.app/" target="_blank">Amazon Clone</a></em>
 </br>
 </br>
 The Amazon Clone project aims to replicate the core functionalities of the popular e-commerce platform, Amazon. It includes features like user authentication, product listings, cart management, and more. This project showcases my skills in building scalable web applications and integrating various APIs.
