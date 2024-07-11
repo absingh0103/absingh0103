@@ -66,6 +66,12 @@ The Amazon Clone project aims to replicate the core functionalities of the popul
 </br>
 ShopNow is a comprehensive shopping website that encompasses all the essential features needed for an enjoyable shopping experience. From browsing products to making secure payments, ShopNow has it all. This project reflects my dedication to creating user-friendly interfaces and implementing efficient backend systems.
 </br>
+</br>
+- <em><a href="https://worknow-mamn.onrender.com/" target="_blank">WorkNow - Jobportal</a></em>
+</br>
+</br>
+The WorkNow Job Portal project aims to offer essential job search and recruitment functionalities. It includes robust user authentication using JWT, comprehensive job listings, and efficient application management. Job seekers can apply for jobs, receive email notifications as soon as their application status is updated, and employers can post openings and manage applications. This project highlights my expertise in developing scalable web applications, integrating diverse APIs, and ensuring timely communication with users through automated email updates.
+</br>
 <h5 align="center">***Please be patient as our website is hosted on a free server, which may cause occasional delays in loading.***</h5>
 
 </br>
